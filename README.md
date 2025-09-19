@@ -12,3 +12,4 @@ Derived Columns → creates new column values
 OLE DB Destination → saves data into the database
 
 Error Output → keeps track of invalid rows
+<img width="955" height="503" alt="running" src="https://github.com/user-attachments/assets/b58f97d4-93ce-4fc1-9a01-3ce48eba9854" />
